@@ -11,6 +11,7 @@ Welcome to mcc_reST's documentation!
    :caption: Contents:
 
    myFirstreST
+   secondreST
 
 Indices and tables
 ==================
