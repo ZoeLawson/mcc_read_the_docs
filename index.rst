@@ -10,8 +10,8 @@ Welcome to mcc_reST's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   myFirstreST
-   secondreST
+   C:\ZoeStuff\MCC\github\mcc_read_the_docs\myFirstreST
+   C:\ZoeStuff\MCC\github\mcc_read_the_docs\secondreST
 
 Indices and tables
 ==================
