@@ -14,8 +14,8 @@ Welcome to mcc_reST's documentation!
    C:\ZoeStuff\MCC\github\mcc_read_the_docs\myFirstreST
    C:\ZoeStuff\MCC\github\mcc_read_the_docs\secondreST
 
-myFirstreST
-secondreST
+   myFirstreST
+   secondreST
 
 Indices and tables
 ==================
