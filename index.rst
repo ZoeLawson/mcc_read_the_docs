@@ -10,8 +10,8 @@ Welcome to mcc_reST's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   myFirstreST
-   secondreST
+   myFirstreST.rst
+   secondreST.rst
 
 Indices and tables
 ==================
