@@ -12,6 +12,7 @@ Welcome to mcc_reST's documentation!
 
    myFirstreST.rst
    secondreST.rst
+   SPBrown-Week7-Homework-reST
 
 Indices and tables
 ==================
