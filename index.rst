@@ -15,7 +15,7 @@ Welcome to mcc_reST's documentation!
    ElizabethHarris-HomeworkWeek7.rst
    MYakavonisPrimer.rst
    SPBrown-Week7-Homework-reST
-   SPBrown-Week7-Homework-Sphinx
+   SPBrown-Week7-Sphinx
 
 Indices and tables
 ==================
