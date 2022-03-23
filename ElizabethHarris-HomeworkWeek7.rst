@@ -12,16 +12,17 @@ Instructions:
 Cook time chart
 ***************
 
-+-----------------+---------------+--------------------+
-| Type            |  Time         |  Texture           |
-+=================+===============+====================+
-| Soft Boiled     |  4 minutes    |  very soft         |
-+-----------------+------------------------------------+
-| Medium Boiled   |  6 minutes    |  custardy yet firm |
-+-----------------+---------------+--------------------+
-| Hard Boiled     |  9 minutes    |  very firm         |
-+-----------------+---------------+--------------------+
++-----------------+-------------+--------------------+
+| Type            |  Time       |  Texture           |
++=================+=============+====================+
+| Soft Boiled     |  4 minutes  |  very soft         |
++-----------------+----------------------------------+
+| Medium Boiled   |  6 minutes  |  custardy yet firm |
++-----------------+-------------+--------------------+
+| Hard Boiled     |  9 minutes  |  very firm         |
++-----------------+-------------+--------------------+
 
+(Zoe edit to try and make the table work)
 
 .. image:: https://github.com/ZoeLawson/mcc_tools_tech/blob/Winter2022/Week06-LightweightMarkup/Homework/Elizabeth/ElizabethHarrisEggs.png?raw=true
 
