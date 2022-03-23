@@ -23,7 +23,9 @@ Cook time chart
 +-----------------+---------------+--------------------+
 
 
-.. image:: ../../../Week06-LightweightMarkup/Homework/Elizabeth/ElizabethHarrisEggs.png
+.. image:: https://github.com/ZoeLawson/mcc_tools_tech/blob/Winter2022/Week06-LightweightMarkup/Homework/Elizabeth/ElizabethHarrisEggs.png?raw=true
+
+(Zoë updated image link to see if it will work. Original is fine based on relative paths in class repo)
 
 How to Dye Easter Eggs
 .. image:: https://www.thebestideasforkids.com/dying-easter-eggs/image file
