@@ -10,10 +10,10 @@ Welcome to mcc_reST's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   classExamples.rst
-   Week_7_Homework-ReStructuredText-JulioMadrid.rst
-   ElizabethHarris-HomeworkWeek7.rst
-   MYakavonisPrimer.rst
+   classExamples
+   Week7Homework-ReStructuredTextJulioMadrid
+   ElizabethHarris-HomeworkWeek7
+   MYakavonisPrimer
    SPBrown-Week7-Homework-reST
    SPBrown-Week7-Sphinx
 
