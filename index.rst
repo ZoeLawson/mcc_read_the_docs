@@ -16,6 +16,7 @@ Welcome to mcc_reST's documentation!
    MYakavonisPrimer
    SPBrown-Week7-Homework-reST
    SPBrown-Week7-Sphinx
+   MatthewBergmanFirstreST
 
 Indices and tables
 ==================
