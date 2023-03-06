@@ -11,16 +11,12 @@ Welcome to mcc_reST's documentation!
    :caption: Contents:
 
    classExamples
-   winter2023
-   Week7Homework-ReStructuredTextJulioMadrid
-   ElizabethHarris-HomeworkWeek7
-   MYakavonisPrimer
-   SPBrown-Week7-Homework-reST
-   SPBrown-Week7-Sphinx
-   MatthewBergmanFirstreST
+   winter2022
+   myFirstreST
+   secondreST
 
 Indices and tables
-==================
+******************
 
 * :ref:`genindex`
 * :ref:`modindex`
