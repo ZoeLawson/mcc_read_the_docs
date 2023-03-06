@@ -10,10 +10,12 @@ Welcome to mcc_reST's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   Intro
+     myFirstreST
+     secondreST
    classExamples
    winter2022
-   myFirstreST
-   secondreST
+
 
 Indices and tables
 ******************
