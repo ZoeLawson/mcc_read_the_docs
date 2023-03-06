@@ -11,6 +11,7 @@ Welcome to mcc_reST's documentation!
    :caption: Contents:
 
    classExamples
+   winter2023
    Week7Homework-ReStructuredTextJulioMadrid
    ElizabethHarris-HomeworkWeek7
    MYakavonisPrimer
