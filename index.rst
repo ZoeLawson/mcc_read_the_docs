@@ -11,9 +11,7 @@ Welcome to mcc_reST's documentation!
    :caption: Contents:
 
    Intro
-     myFirstreST
-     secondreST
-   classExamples
+   winter2023
    winter2022
 
 
