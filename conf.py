@@ -128,8 +128,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-#    (master_doc, 'mcc_reST.tex', 'mcc\\_reST Documentation',
-#     'Zoe Lawson', 'manual'),
+    (master_doc, 'mcc_reST.tex', 'mcc\\_reST Documentation',
+     'Zoe Lawson', 'manual'),
 ]
 
 
