@@ -7,7 +7,7 @@ Class work done by the Tools and Technologies for Technical Writers Winter 2023 
    :maxdepth: 2
    
    Winter2023/Chaput_RST
-    Winter2023/SProeung
+   Winter2023/SProeung
 ..    Winter2023/
 ..    Winter2023/
 ..    Winter2023/
