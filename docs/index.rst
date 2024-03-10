@@ -6,6 +6,13 @@
 Welcome to mcc_reST's documentation!
 ====================================
 
+This is a collection of ReStructured Text examples and homework from the 
+Middlesex Community College **Tools and Technologies for Technical Writers** 
+course.
+
+For more information see https://www.middlesex.mass.edu/careertraining/techwrite.aspx.
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
