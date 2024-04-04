@@ -8,5 +8,9 @@ Content will go here. Remove the `..` before `Winter2024`.
 .. toctree::
    :maxdepth: 2
 
-.. Winter2024/filename
+.. Winter2024/DanielleBrindisi
+.. Winter2024/Sepeyeonkqua-Myles
+.. Winter2024/TessBaucom/TessBaucom
+.. Winter2024/TKreStructuredText_HW/index
+.. Winter2024/TKreStructuredText_HW/ReadMe
 
