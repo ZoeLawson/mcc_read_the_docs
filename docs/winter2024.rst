@@ -13,4 +13,5 @@ Content will go here. Remove the `..` before `Winter2024`.
    Winter2024/TessBaucom/TessBaucom
    Winter2024/TKreStructuredText_HW/index
    Winter2024/TKreStructuredText_HW/ReadMe
+   Winter2024/MitaSenHW/MitaSen
   
