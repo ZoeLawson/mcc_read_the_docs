@@ -11,6 +11,7 @@ Content will go here. Remove the `..` before `Winter2024`.
    Winter2024/DanielleBrindisi
    Winter2024/HillaryIantosca
    Winter2024/Sepeyeonkqua-Myles
+   Winter2024/ShahanaSharmin
    Winter2024/TessBaucom/TessBaucom
    Winter2024/TKreStructuredText_HW/index
    Winter2024/TKreStructuredText_HW/ReadMe
