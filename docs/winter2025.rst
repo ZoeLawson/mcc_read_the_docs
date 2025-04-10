@@ -9,6 +9,6 @@ Class work done by the Tools and Technologies for Technical Writers Winter 2025 
 
    Winter2025/DanielBrann
    Winter2025/AnnaHolt
-   Winter2-25/RoffoWeek7HW
+   Winter2025/RoffoWeek7HW
    Winter2025/placeholder
   
